@@ -1,0 +1,50 @@
+*******************************************
+Vídeo aulas
+*******************************************
+
+
+Para rodar esta vídeo aula você precisa do aplicativo "DevMedia Player"; 
+Para baixar a versão mais nova do DevMedia Player, acesse: www.devmedia.com.br/player
+
+
+Você também deve instalar os Codecs que se encontram no 
+link http://www.devmedia.com.br/codec-tscc-e-xpcodec-para-videos-da-devmedia/23742
+
+
+OBS: Os arquivos de vídeo possuem extensão *.DM2
+
+
+****************************************************
+Se tiver problemas no uso do aplicativo visite:
+
+FAQ do DevMedia Player:
+http://www.devmedia.com.br/devmedia-player-faq/9272
+
+
+FAQ de Vídeo aulas DevMedia:
+http://www.devmedia.com.br/video-aulas-faq/4668
+****************************************************
+
+
+-------------------------------
+ATENCAO! Aviso sobre antivírus
+-------------------------------
+Para evitar a ação de hackers, o aplicativo DevPlayer passou por um processo de 
+encriptação do executável depois de ser compilado. Alguns anti-vírus emitem o 
+alerta "HEUR/Crypted" - Este alerta indica que o antivírus não conseguiu analisar 
+o executável completamente (em função da criptografia). Veja abaixo uma definição 
+sobre o alerta HEUR/Crypted:
+
+"HEUR/Crypted assinala se um determinado ficheiro possui mecanismos de encriptação 
+que são utilizados para esconder a verdadeira funcionalidade."
+
+Você pode ignorar este alerta ou marcar nosso player como exceção no seu antivírus. 
+A DevMedia assegura que o DevPlayer não possui nenhum tipo de vírus.
+--------------------------------
+
+
+Se precisar fique a vontade para entrar em contato conosco, através de www.devmedia.com.br/central
+
+
+Equipe DevMedia
+www.devmedia.com.br
